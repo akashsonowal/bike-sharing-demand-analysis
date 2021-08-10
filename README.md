@@ -1,17 +1,16 @@
-# students-performance-analysis
+# bike-sharing-demand-analysis
 
 ## Objective:
-To determine and understand the various factors affecting the test score and thus building a linear regression model depicting the effects of these factors.
+To understand the various factors affecting the test score using regression analysis.
 
 ## Approach:
-Multiple linear regression model is used to predict the test scores by successively adding the most significant attribute affecting the test score based on various factors like correlation coefficient, adjusted R-square, RSE, etc.
+Multiple linear regression model is used to predict the test scores by successively adding the most significant attribute affecting the test score based on various factors like correlation coefficient, adjusted R<sup>2</sup>, RSE, etc.
 
 ## Results:
 Achieved R<sup>2</sup>
 
 ## Data Source:
-Paulo Cortez, University of Minho, GuimarÃ£es, Portugal
-Dataset: Student performance in secondary school (for 1 subject: Mathematics)
+Dataset: Student performance in secondary school (for Mathematics)
 https://archive.ics.uci.edu/ml/datasets/student%2Bperformance
 
 ## Variables description:
@@ -33,7 +32,7 @@ https://archive.ics.uci.edu/ml/datasets/student%2Bperformance
 - Failures: number of past class failures (numeric: n if 1<=n<3, else 4)
 - Schoolsup: extra educational support (binary: yes or no)
 - Famsup: family educational support (binary: yes or no)
-- Paid: extra paid classes within the course subject (Math or Portuguese) (binary: yes or no)
+- Paid: extra paid classes within the course subject (Math) (binary: yes or no)
 - Activities: extra-curricular activities (binary: yes or no)
 - Nursery: attended nursery school (binary: yes or no)
 - Higher: wants to take higher education (binary: yes or no)
