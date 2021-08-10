@@ -1,19 +1,18 @@
 # students-performance-analysis
 
-Predict student performance in secondary education (Regression)
-Objective:
-The objective of this project is to determine the various factors affecting the test score and thus build a linear regression model depicting the effects of these factors.
+## Objective:
+To determine and understand the various factors affecting the test score and thus building a linear regression model depicting the effects of these factors.
 
-Methodology:
+## Approach:
 Multiple linear regression model is used to predict the test scores by successively adding the most significant attribute affecting the test score based on various factors like correlation coefficient, adjusted R-square, RSE, etc.
 
-Data Source:
+## Data Source:
 Paulo Cortez, University of Minho, GuimarÃ£es, Portugal
-Dataset: Student performance in secondary school (for 1 subject)
+Dataset: Student performance in secondary school (for 1 subject: Mathematics)
 https://archive.ics.uci.edu/ml/datasets/student%2Bperformance
 
-Variables description:
-Independent variables-
+## Variables description:
+#### Independent variables-
 School: student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
 Sex: student's sex (binary: 'F' - female or 'M' - male)
 Age: student's age (numeric: from 15 to 22)
@@ -47,8 +46,8 @@ Absences: number of school absences (numeric: from 0 to 93)
 G1: first period grade (numeric: from 0 to 20)
 G2: second period grade (numeric: from 0 to 20)
 
-Dependent Variable-
+#### Dependent Variable-
 G3: final grade (numeric: from 0 to 20, output target)
 
-References:
+## References:
 http://www3.dsi.uminho.pt/pcortez/student.pdf
