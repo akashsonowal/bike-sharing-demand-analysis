@@ -7,7 +7,7 @@ To determine and understand the various factors affecting the test score and thu
 Multiple linear regression model is used to predict the test scores by successively adding the most significant attribute affecting the test score based on various factors like correlation coefficient, adjusted R-square, RSE, etc.
 
 ## Results:
-Achieved R^2
+Achieved R<sup>2</sup>
 
 ## Data Source:
 Paulo Cortez, University of Minho, GuimarÃ£es, Portugal
