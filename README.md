@@ -7,7 +7,7 @@ To understand the various factors affecting the test score using regression anal
 Multiple linear regression model is used to predict the test scores by successively adding the most significant attribute affecting the test score based on various factors like correlation coefficient, adjusted R<sup>2</sup>, RSE, etc.
 
 ## Results:
-Achieved R<sup>2</sup>
+Achieved Adjusted R<sup>2</sup> of 0.728 with the final OLS model of 6 input features.
 
 ## Dataset Characteristics:
 
