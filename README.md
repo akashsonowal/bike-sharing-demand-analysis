@@ -9,9 +9,9 @@ Multiple linear regression model is used to predict the test scores by successiv
 ## Results:
 Achieved R<sup>2</sup>
 
-## Data Source:
+## Dataset Characteristics:
 
-Dataset have the following fields:
+[Dataset](https://www.kaggle.com/gauravduttakiit/bike-sharing) have the following fields:
 	
 	- instant: record index
 	- dteday : date
