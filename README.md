@@ -49,3 +49,6 @@ G2: second period grade (numeric: from 0 to 20)
 
 Dependent Variable-
 G3: final grade (numeric: from 0 to 20, output target)
+
+References:
+http://www3.dsi.uminho.pt/pcortez/student.pdf
