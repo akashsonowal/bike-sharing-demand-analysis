@@ -1,10 +1,11 @@
 # bike-sharing-demand-analysis
 
 ## Objective:
-To understand the various factors affecting the test score using regression analysis.
+To understand the factors affecting the demand for these shared bikes in the American market and come up with a mindful business plan to be able to accelerate its revenue.
 
 ## Approach:
-Multiple linear regression model is used to predict the test scores by successively adding the most significant attribute affecting the test score based on various factors like correlation coefficient, adjusted R<sup>2</sup>, RSE, etc.
+- Carried out multivariate statistical regression analysis to study significant variables in predicting bike sharing demand.
+- Performed distplots analysis, multicollinearity check using VIF, Feature elimination using RFE based on p-values.
 
 ## Results:
 Achieved Adjusted R<sup>2</sup> of 0.728 with the final OLS model of 6 input features.
