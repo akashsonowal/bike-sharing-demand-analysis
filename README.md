@@ -12,7 +12,7 @@ Dataset: Student performance in secondary school (for 1 subject: Mathematics)
 https://archive.ics.uci.edu/ml/datasets/student%2Bperformance
 
 ## Variables description:
-#### Independent variables (:
+#### Independent variables (32):
 - School: student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
 - Sex: student's sex (binary: 'F' - female or 'M' - male)
 - Age: student's age (numeric: from 15 to 22)
@@ -47,7 +47,7 @@ https://archive.ics.uci.edu/ml/datasets/student%2Bperformance
 - G2: second period grade (numeric: from 0 to 20)
 
 #### Dependent Variable (1):
-G3: final grade (numeric: from 0 to 20, output target)
+- G3: final grade (numeric: from 0 to 20, output target)
 
 ## References:
 http://www3.dsi.uminho.pt/pcortez/student.pdf
