@@ -8,7 +8,7 @@ To understand the factors affecting the demand for shared bikes in the American 
 - Performed distplots analysis, multicollinearity check using VIF, Feature elimination using RFE based on p-values.
 
 ## Results:
-Achieved Adjusted R<sup>2</sup> of 0.728 with the final OLS model of 6 input features.
+Achieved Adjusted R<sup>2</sup> of 0.728 with the final OLS model of only 6 input features.
 
 ## Dataset Characteristics:
 
