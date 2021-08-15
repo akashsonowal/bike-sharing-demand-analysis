@@ -5,7 +5,7 @@ To understand the factors affecting the demand for shared bikes in the American 
 
 ## Approach:
 - Carried out multivariate statistical regression analysis to study significant variables in predicting bike sharing demand.
-- Performed distplots analysis, multicollinearity check using VIF, Feature elimination using RFE based on p-values.
+- Performed distplots analysis, multicollinearity check using VIF, Feature selection using RFE based on p values.
 
 ## Results:
 Achieved Adjusted R<sup>2</sup> of 0.728 with the final OLS model of only 7 input features with 95% confidence.
