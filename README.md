@@ -1,14 +1,14 @@
 # bike-sharing-demand-analysis
 
 ## Objective:
-To understand the factors affecting the demand for shared bikes in the American market and come up with a mindful business plan to be able to accelerate its revenue.
+To understand the factors affecting the demand for shared bikes in the American market to help us come up with a mindful business plan to be able to accelerate its revenue.
 
 ## Approach:
 - Carried out multivariate statistical regression analysis to study significant variables in predicting bike sharing demand.
 - Performed distplots analysis, multicollinearity check using VIF, Feature elimination using RFE based on p-values.
 
 ## Results:
-Achieved Adjusted R<sup>2</sup> of 0.728 with the final OLS model of only 6 input features.
+Achieved Adjusted R<sup>2</sup> of 0.728 with the final OLS model of only 6 input features with 95% confidence.
 
 ## Dataset Characteristics:
 
